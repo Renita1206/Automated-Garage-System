@@ -1,4 +1,4 @@
-# Automated-Parking-System
+# Automated-Garage-System
 MPCA Project (UE20CS252)
 
 ![Final Project](https://user-images.githubusercontent.com/66276711/165364827-828994a9-1677-40ca-89ce-fc57368d10e7.png)
